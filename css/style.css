@@ -129,7 +129,7 @@ img {
  ************************************************/
 
 /* tablet  & no-scrollbar*/
-@media (max-width:768px) , (max-width: 1160px){
+@media (max-width:768px) , (max-width: 1159px){
     .container{
         width: 100%;
     }
@@ -152,6 +152,6 @@ img {
         width: 100%;
         padding-bottom: 40px;
     }
-
+}
 
 /* /phone */
